@@ -1,4 +1,4 @@
-module github.com/ceph/go-ceph
+module github.com/TheMoti/go-ceph
 
 go 1.19
 
